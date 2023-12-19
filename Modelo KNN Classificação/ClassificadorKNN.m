@@ -1,8 +1,6 @@
 clc
 clear
 close all
-% Nome: José Matheus Soares Ferreira
-% Matricula: 412564
 
 %% -------------------- Dataset -------------------------------------------
 % A base de dados corresponde a sinais obtidos através de uma luva
